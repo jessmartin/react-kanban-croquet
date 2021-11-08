@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.react-kanban-column {
+  background-color: orange;
+}
+
+.react-kanban-card {
+  background-color: purple;
+  color: yellow;
+}
+
+.react-kanban-card__title {
+  font-size: large;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.react-kanban-card--dragging {
+  transform: rotate(90deg);
+  background-color: yellow;
+  color: purple;
+}
