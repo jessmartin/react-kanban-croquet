@@ -5,6 +5,8 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@croquet/croquet": "^1.0.5",
+    "@croquet/react": "^1.0.3",
     "@lourenci/react-kanban": "2.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
